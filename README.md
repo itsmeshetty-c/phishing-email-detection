@@ -154,7 +154,7 @@ Launch an interactive session to test emails continuously:
 ```bash
 python predict.py --interactive
 ```
-
+Then open http://127.0.0.1:5000 with automated browser launching.
 ---
 
 ## 🔄 Swapping in Custom / Public Datasets
